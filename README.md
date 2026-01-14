@@ -5,6 +5,7 @@ Repo Containing Information Collected about Solar Eclipse
 
 April 8th, 2024.
 Avon Lake, Ohio
+
 Latitude: 41.48865
 Longitude: -81.97103
 
